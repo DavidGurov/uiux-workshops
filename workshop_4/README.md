@@ -19,7 +19,7 @@
 1. Для завдання Medium я створив ще один дизайн у Figma, де також потрібно було відтворити елемент “один в один”.  
 2. Результат другої роботи наведено нижче:  
 
-![Результат Medium](images/design2.png)
+![Результат Medium](images/phone.png)
 
 3. Посилання на дизайн у Figma (Medium):  
 [Відкрити дизайн у Figma (Medium)](https://www.figma.com/design/bLs7hWRukwoiG2O7o6oMNu/Design-2?m=auto&t=qDXKIuugnPt3M2Fw-6)
