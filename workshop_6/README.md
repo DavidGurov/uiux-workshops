@@ -22,7 +22,7 @@
 ![Шестірня](images/gear.png)  
 
 
-## **Посилання на проєкт у Figma**
+## **Посилання на дизайн у Figma**
 [Відкрити дизайн у Figma](https://www.figma.com/design/x45aDhugMKKPuwQmrnyrcr/Icons?m=auto&t=DtiT3qfEZKw26AwG-6)
 
 ## **Висновок**
