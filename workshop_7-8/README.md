@@ -37,7 +37,7 @@
 
 ## **Результат роботи**
 
-![Сторінка](images/Page.png)
+![Сторінка](images/Page1.png)
 
 ## **Посилання на дизайн у Figma**
 [Переглянути дизайн у Figma](https://www.figma.com/design/auFZd5YAjecb9F9X0KO9AQ/Page?m=auto&t=wzPUGTa7As0Etpg4-6)  
