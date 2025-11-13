@@ -25,7 +25,7 @@
 ## **Результат роботи**
 Нижче наведено готову картку товару, створену мною у Figma за допомогою Auto layout:
 
-![Картка товару](Картка.png)
+![Картка товару](images/Картка.png)
 
 ## **Посилання на дизайн у Figma**
 [Переглянути проєкт у Figma](https://www.figma.com/design/x9rRnWZ5cQJ7m8isnRhX8e/%D0%9A%D0%B0%D1%80%D1%82%D0%BA%D0%B0?m=auto&t=S1eyZ7YxbtcGCKna-6)  
