@@ -2,7 +2,7 @@
 **Тема:** Оптимізація зображень за допомогою Squoosh
 
 ## Мета
-Ознайомити студентів із методами стиснення зображень (lossless та lossy), дослідити вплив зміни розміру на якість та вагу файлу, а також навчитися адаптувати зображення для різних цільових застосувань (Web, Mobile, Retina).
+Ознайомитися із методами стиснення зображень (lossless та lossy), дослідити вплив зміни розміру на якість та вагу файлу, а також навчитися адаптувати зображення для різних цільових застосувань (Web, Mobile, Retina).
 
 ## 1. Теоретичні відомості
 **Squoosh** — це веб-інструмент для оптимізації зображень, який дозволяє порівнювати різні алгоритми стиснення в реальному часі.
@@ -24,7 +24,7 @@
 
 ## 3. Стиснення без втрати якості (Lossless)
 
-Ми спробували перетворити зображення у формати PNG та WebP у режимі Lossless.
+Я спробував перетворити зображення у формати PNG та WebP у режимі Lossless.
 
 ### 3.1. Фотографія (Ліс)
 ![Forest Browser PNG](images/forest_browser_png.jpg)
@@ -50,19 +50,19 @@
 Найкращий результат показав **AVIF**.
 
 **MozJPEG (100%, 75%, 50%)**
-![MozJPEG 100](images/forest_MozJPEG_100.jpg)
-![MozJPEG 75](images/forest_MozJPEG_75.jpg)
-![MozJPEG 50](images/forest_MozJPEG_50.jpg)
+![MozJPEG 100](images/forest_MozJPEG_100.png)
+![MozJPEG 75](images/forest_MozJPEG_75.png)
+![MozJPEG 50](images/forest_MozJPEG_50.png)
 
 **WebP (100%, 75%, 50%)**
-![WebP 100](images/forest_WebP_100.jpg)
-![WebP 75](images/forest_WebP_75.jpg)
-![WebP 50](images/forest_WebP_50.jpg)
+![WebP 100](images/forest_WebP_100.png)
+![WebP 75](images/forest_WebP_75.png)
+![WebP 50](images/forest_WebP_50.png)
 
 **AVIF (100%, 75%, 50%)**
-![AVIF 100](images/forest_AVIF_100.jpg)
-![AVIF 75](images/forest_AVIF_75.jpg)
-![AVIF 50](images/forest_AVIF_50.jpg)
+![AVIF 100](images/forest_AVIF_100.png)
+![AVIF 75](images/forest_AVIF_75.png)
+![AVIF 50](images/forest_AVIF_50.png)
 *Висновок по фото:* AVIF при якості 50% дав розмір **377 KB** при збереженні чудової візуальної якості.
 
 ---
@@ -109,17 +109,17 @@
 
 ## 5. Оптимізація розміру (Resize)
 
-Ми адаптували зображення під різні екрани: Mobile (600px), Web (1200px) та Retina (2400px/2x).
+Я адаптував зображення під різні екрани: Mobile (600px), Web (1200px) та Retina (2400px/2x).
 
 ### 5.1. Фотографія (Forest)
-![Forest Mobile 600px](images/forest_600.jpg)
-![Forest Web 1200px](images/forest_1200.jpg)
-![Forest Retina 2400px](images/forest_2400.jpg)
+![Forest Mobile 600px](images/forest_600.png)
+![Forest Web 1200px](images/forest_1200.png)
+![Forest Retina 2400px](images/forest_2400.png)
 *Результат:* Для мобільної версії (600px) файл займає всього **28 KB**.
 
 ### 5.2. Скріншот
-![Screenshot Mobile 600px](images/screenshot_600.jpg)
-![Screenshot Web 1200px](images/screenshot_1200.jpg)
+![Screenshot Mobile 600px](images/screenshot_600.png)
+![Screenshot Web 1200px](images/screenshot_1200.png)
 ![Screenshot Retina 2400px](images/screenshot_2400.png)
 
 ### 5.3. Графіка (Spotify)
