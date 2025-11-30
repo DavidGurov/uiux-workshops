@@ -27,8 +27,8 @@
 Я спробував перетворити зображення у формати PNG та WebP у режимі Lossless.
 
 ### 3.1. Фотографія (Ліс)
-![Forest Browser PNG](images/forest_browser_png.jpg)
-![Forest WebP Lossless](images/forest_WebP.jpg)
+![Forest Browser PNG](images/forest_browser_png.png)
+![Forest WebP Lossless](images/forest_WebP.png)
 * **Browser PNG:** 12.8 MB (значне збільшення розміру через специфіку перетворення фото в PNG).
 * **WebP Lossless:** 7.15 MB.
 
