@@ -109,22 +109,22 @@
 
 ## 5. Оптимізація розміру (Resize)
 
-Я адаптував зображення під різні екрани: Mobile (600px), Web (1200px) та Retina (2400px/2x).
+Я адаптував зображення під різні екрани: Web (1200px), Mobile (600px) та Retina (2400px/2x).
 
 ### 5.1. Фотографія (Forest)
-![Forest Mobile 600px](images/forest_600.png)
-![Forest Web 1200px](images/forest_1200.png)
+![Forest Mobile 600px](images/forest_1200.png)
+![Forest Web 1200px](images/forest_600.png)
 ![Forest Retina 2400px](images/forest_2400.png)
 *Результат:* Для мобільної версії (600px) файл займає всього **28 KB**.
 
 ### 5.2. Скріншот
-![Screenshot Mobile 600px](images/screenshot_600.png)
-![Screenshot Web 1200px](images/screenshot_1200.png)
+![Screenshot Mobile 600px](images/screenshot_1200.png)
+![Screenshot Web 1200px](images/screenshot_600.png)
 ![Screenshot Retina 2400px](images/screenshot_2400.png)
 
 ### 5.3. Графіка (Spotify)
-![Spotify Mobile 600px](images/spotify_600.png)
-![Spotify Web 1200px](images/spotify_1200.png)
+![Spotify Mobile 600px](images/spotify_1200.png)
+![Spotify Web 1200px](images/spotify_600.png)
 ![Spotify Retina 2400px](images/spotify_2400.png)
 
 ## Висновки
